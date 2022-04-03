@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import telebot
 from telebot import types
 
-bot = telebot.TeleBot(token="5081203527:AAEW_OyeTo9x52-dXx1ltrnGTQl_atdrFjs")
+bot = telebot.TeleBot(token="your token")
 
 
 # Команда СТАРТ
